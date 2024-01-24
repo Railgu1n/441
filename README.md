@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+
 <html>  
 <head>  
   <style>  
@@ -17,7 +17,7 @@
 </head>  
 <body>  
   <div class="chart-container">  
-    <img class="chart-image" src="https://i.postimg.cc/jSNmFFHq/d80bbb27e5511774d31a645d3ab25c5.png" alt="Chart">  
+    <img class="chart-image" src="https://www.freeimg.cn/i/2024/01/24/65b08dbe780e0.png" alt="Chart">  
   </div>  
 </body>  
 </html>
