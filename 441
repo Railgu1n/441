@@ -17,7 +17,7 @@
 </head>  
 <body>  
   <div class="chart-container">  
-    <img class="chart-image" src="https://www.freeimg.cn/i/2024/01/24/65b08dbe780e0.png" alt="Chart">  
+    <img class="chart-image" src="https://www.freeimg.cn/i/2024/01/24/65b0f9f7c425b.png" alt="Chart">  
   </div>  
 </body>  
 </html>
